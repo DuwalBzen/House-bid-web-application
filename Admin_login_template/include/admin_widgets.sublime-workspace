@@ -1,0 +1,347 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"tab",
+				"table-hover"
+			],
+			[
+				"v",
+				"view_all_owner"
+			],
+			[
+				"e",
+				"email"
+			],
+			[
+				"view",
+				"view_profile"
+			],
+			[
+				"sc",
+				"script"
+			],
+			[
+				"is",
+				"isset"
+			],
+			[
+				"inc",
+				"include"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"array_K",
+				"array_key_exists"
+			],
+			[
+				"array_key",
+				"array_key_exists"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"mys",
+				"mysql_query"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"di",
+				"div\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 164.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/biddinghouse.com/Admin_login_template/add_post.php",
+		"/C/xampp/htdocs/biddinghouse.com/owner_login_templete/add_post.php",
+		"/C/xampp/htdocs/biddinghouse.com/austion_page.php",
+		"/C/xampp/htdocs/biddinghouse.com/include/header.php",
+		"/C/xampp/htdocs/biddinghouse.com/login.php",
+		"/C/xampp/htdocs/biddinghouse.com/Admin_login_template/add_new_admin.php",
+		"/C/xampp/htdocs/biddinghouse.com/Admin_login_template/include/edit_post.php",
+		"/C/xampp/htdocs/biddinghouse.com/bider_login_templete/view_post.php",
+		"/C/xampp/htdocs/biddinghouse.com/bider_login_templete/include/side_navbar.php",
+		"/C/xampp/htdocs/biddinghouse.com/bider_login_templete/include/edit_post.php",
+		"/C/xampp/htdocs/biddinghouse.com/Admin_login_template/recived_post_request.php",
+		"/C/xampp/htdocs/biddinghouse.com/bider_login_templete/include/view_all_post.php",
+		"/C/xampp/htdocs/biddinghouse.com/auction_search.php",
+		"/C/xampp/htdocs/biddinghouse.com/bidding_house.php",
+		"/C/xampp/htdocs/biddinghouse.com/index.php",
+		"/C/xampp/htdocs/biddinghouse.com/Admin_login_template/include/view_all_post.php",
+		"/C/xampp/htdocs/biddinghouse.com/owner_login_templete/include/side_navbar.php",
+		"/C/xampp/htdocs/biddinghouse.com/owner_login_templete/include/edit_post.php",
+		"/C/xampp/htdocs/biddinghouse.com/owner_login_templete/include/view_all_post.php",
+		"/C/xampp/htdocs/biddinghouse.com/Admin_login_template/index.php",
+		"/F/New folder/[FreeTutorials.Us] Udemy - php-for-complete-beginners-includes-msql-object-oriented/12 CMS Project  Blogging System - Front End and First Steps/080 entire-cms/cms/admin/includes/view_all_posts.php",
+		"/C/xampp/htdocs/biddinghouse.com/Admin_login_template/include/side_navbar.php",
+		"/C/xampp/htdocs/biddinghouse.com/Admin_login_template/js/scripts.js",
+		"/C/xampp/htdocs/biddinghouse.com/Admin_login_template/include/footer.php",
+		"/C/xampp/htdocs/biddinghouse.com/Admin_login_template/include/header.php",
+		"/F/New folder/[FreeTutorials.Us] Udemy - php-for-complete-beginners-includes-msql-object-oriented/12 CMS Project  Blogging System - Front End and First Steps/080 entire-cms/cms/admin/includes/admin_footer.php",
+		"/C/xampp/htdocs/biddinghouse.com/Admin_login_template/view_post.php",
+		"/C/xampp/htdocs/biddinghouse.com/owner_login_templete/update_profile.php",
+		"/C/xampp/htdocs/biddinghouse.com/Admin_login_template/update_profile.php",
+		"/C/xampp/htdocs/biddinghouse.com/Admin_login_template/include/admin_widgets.php",
+		"/C/xampp/htdocs/biddinghouse.com/Admin_login_template/view_all_bider.php",
+		"/C/xampp/htdocs/biddinghouse.com/Admin_login_template/view_all_owner.php",
+		"/C/xampp/htdocs/biddinghouse.com/bider_login_templete/index.php",
+		"/C/xampp/htdocs/biddinghouse.com/bider_login_templete/view_profile.php",
+		"/C/xampp/htdocs/biddinghouse.com/bider_login_templete/include/header.php",
+		"/C/xampp/htdocs/biddinghouse.com/bider_login_templete/update_profile.php",
+		"/C/xampp/htdocs/biddinghouse.com/Admin_login_template/view_profile.php",
+		"/C/xampp/htdocs/biddinghouse.com/Admin_login_template/view_all_admin.php",
+		"/C/xampp/htdocs/biddinghouse.com/Admin_login_template/update_post.php",
+		"/C/xampp/htdocs/upload/db_connection/database_connection.php",
+		"/F/New folder/[FreeTutorials.Us] Udemy - php-for-complete-beginners-includes-msql-object-oriented/19 CMS - Dashboard/162 Admin-Widgets-Html/admin_widgets.html",
+		"/C/Users/Sabita Duwal/Downloads/Compressed/Blood_donation_web_application-master/Blood_donation_web_application-master/Signup.php",
+		"/C/xampp/htdocs/biddinghouse.com/owner_login_templete/view_profile.php",
+		"/C/xampp/htdocs/biddinghouse.com/logout.php",
+		"/C/xampp/htdocs/biddinghouse.com/owner_login_templete/index.php",
+		"/C/xampp/htdocs/biddinghouse.com/owner_login_templete/include/header.php",
+		"/C/xampp/htdocs/biddinghouse.com/owner_login_templete/logout.php",
+		"/C/Users/Sabita Duwal/Downloads/Compressed/Blood_donation_web_application-master/Blood_donation_web_application-master/Admin_login_template/include/header.php",
+		"/C/Users/Sabita Duwal/Downloads/Compressed/Blood_donation_web_application-master/Blood_donation_web_application-master/Admin_login_template/include/leftsider.php",
+		"/C/xampp/htdocs/biddinghouse.com/register.php",
+		"/C/Users/Sabita Duwal/Downloads/Compressed/Blood_donation_web_application-master/Blood_donation_web_application-master/login.php",
+		"/C/Users/Sabita Duwal/Downloads/Compressed/Blood_donation_web_application-master/Blood_donation_web_application-master/blooddonation.php",
+		"/C/Users/Sabita Duwal/Downloads/Compressed/Blood_donation_web_application-master/Blood_donation_web_application-master/nav.php",
+		"/C/Users/Sabita Duwal/Downloads/Compressed/Blood_donation_web_application-master/Blood_donation_web_application-master/Admin_login_template/add_admin.php",
+		"/C/Users/Sabita Duwal/Downloads/Compressed/Blood_donation_web_application-master/Blood_donation_web_application-master/Admin_login_template/index.php",
+		"/C/xampp/htdocs/biddinghouse.com/include/footer.php",
+		"/C/xampp/htdocs/biddinghouse.com/owner_login_templete/view_post.php",
+		"/C/xampp/htdocs/biddinghouse.com/Admin_login_template/view_feedback.php",
+		"/C/xampp/htdocs/biddinghouse.com/Admin_login_template/view_subscriber.php",
+		"/C/xampp/htdocs/biddinghouse.com/feedback.php",
+		"/C/Users/Sabita Duwal/Downloads/Compressed/Blood_donation_web_application-master/Blood_donation_web_application-master/Admin_login_template/include/update_category.php",
+		"/C/Users/Sabita Duwal/Downloads/Compressed/Blood_donation_web_application-master/Blood_donation_web_application-master/Admin_login_template/Blood_stock.php",
+		"/C/xampp/htdocs/biddinghouse.com/Admin_login_template/view_all_post.php",
+		"/C/xampp/htdocs/biddinghouse.com/Admin_login_template/include/view_post.php",
+		"/C/xampp/htdocs/Online biding project/login.php",
+		"/F/New folder/[FreeTutorials.Us] Udemy - php-for-complete-beginners-includes-msql-object-oriented/12 CMS Project  Blogging System - Front End and First Steps/080 entire-cms/cms/admin/includes/edit_post.php",
+		"/F/New folder/[FreeTutorials.Us] Udemy - php-for-complete-beginners-includes-msql-object-oriented/12 CMS Project  Blogging System - Front End and First Steps/080 entire-cms/cms/admin/includes/add_post.php",
+		"/F/New folder/[FreeTutorials.Us] Udemy - php-for-complete-beginners-includes-msql-object-oriented/12 CMS Project  Blogging System - Front End and First Steps/080 entire-cms/cms/admin/posts.php",
+		"/C/xampp/htdocs/biddinghouse.com/Admin_login_template/edit_post.php",
+		"/C/xampp/htdocs/Online biding project/austion page.php",
+		"/C/Users/Sabita Duwal/Downloads/Compressed/Blood_donation_web_application-master/Blood_donation_web_application-master/Admin_login_template/view_enquiry.php",
+		"/C/xampp/htdocs/biddinghouse.com/css_lat/style.css",
+		"/C/xampp/htdocs/biddinghouse.com/austion page.php",
+		"/C/xampp/htdocs/biddinghouse.com/www.biddinghouse.com/register.php",
+		"/C/xampp/htdocs/biddinghouse.com/www.biddinghouse.com/index.php",
+		"/C/xampp/htdocs/biddinghouse.com/www.biddinghouse.com/login.php",
+		"/C/xampp/htdocs/biddinghouse.com/www.biddinghouse.com/include/footer.php",
+		"/C/xampp/htdocs/biddinghouse.com/www.biddinghouse.com/include/header.php",
+		"/C/xampp/htdocs/biddinghouse.com/www.biddinghouse.com/incude/header.php",
+		"/C/xampp/htdocs/Online biding project/Admin_login_template/index.php",
+		"/C/xampp/htdocs/OBS/application/controllers/adminmain.php",
+		"/C/xampp/htdocs/biddinghouse.com/www.biddinghouse.com/login.html",
+		"/C/xampp/htdocs/Online biding project/Admin_login_template/include/side_navbar.php",
+		"/C/xampp/htdocs/Online biding project/Admin_login_template/include/header.php",
+		"/C/xampp/htdocs/Online biding project/Admin_login_template/include/footer.php",
+		"/C/xampp/htdocs/Online biding project/db_connection/database_connection.php",
+		"/C/Users/Sabita Duwal/Downloads/Compressed/biddinghouse.com/biddinghouse.com/www.biddinghouse.com/index.html",
+		"/C/xampp/htdocs/q/application/controllers/logincon.php",
+		"/C/xampp/htdocs/q/application/controllers/registercon.php",
+		"/C/xampp/htdocs/Online-Bidding-System-PHP--master/Home.php",
+		"/C/Users/Sabita Duwal/Downloads/Compressed/8.9.php/8.9.php/8.9.php",
+		"/C/xampp/htdocs/Online biding project/db connection/database_connection.php",
+		"/C/Users/Sabita Duwal/Downloads/Compressed/8.5.php/8.5.php",
+		"/C/Users/Sabita Duwal/Downloads/Compressed/startbootstrap-1-col-portfolio-gh-pages/startbootstrap-1-col-portfolio-gh-pages/index.html",
+		"/C/xampp/htdocs/New folder/index.php",
+		"/C/xampp/htdocs/New folder/application/index.html",
+		"/F/New folder/[FreeTutorials.Us] Udemy - the-complete-web-developer-course-2/09 MySQL/218 Looping Through Data - Files.html",
+		"/F/New folder/[FreeTutorials.Us] Udemy - the-complete-web-developer-course-2/09 MySQL/216 Inserting And Updating Data - Files.html",
+		"/C/Users/Sabita Duwal/Documents/biding webside project/javascript.html",
+		"/C/xampp/htdocs/Online-Bidding-System-PHP--master/Connection/DatabaseConnection.php",
+		"/C/Users/Sabita Duwal/Documents/javascript.html",
+		"/C/Users/Sabita Duwal/Documents/javascript"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Post_Date",
+			"post_date",
+			"Post_Date",
+			"post_date",
+			"bid_date",
+			"on bid",
+			">\n",
+			"php",
+			"nbsp",
+			"session_name",
+			"no of bid",
+			"developer",
+			"Category",
+			"sold",
+			"Live bid",
+			"section 12",
+			"property overview",
+			"login",
+			"victory group",
+			"T - 404 Victory Amara Noida Extension",
+			"Finance available \nInquire\nT - 404 Victory Amara Noida Extension"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "admin_widgets.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 216.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
